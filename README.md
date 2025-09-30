@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello! I'm Wahyudi Irham 👋
 
 <!--
 **wahyudiirham-it/wahyudiirham-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![hello](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGVkd3ZuZDhmOW93b2hydmNnY2duczRqN3gyNnp6Z3oxYzQxMW1qNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dn2RNZ7MkD8xFqfTi1/giphy.gif)
